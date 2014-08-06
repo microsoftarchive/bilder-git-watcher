@@ -1,0 +1,14 @@
+{
+  "name": "bilder-git-watcher",
+  "version": "0.0.2",
+  "description": "git submodule watcher/auto-switcher",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wunderlist/bilder-git-watcher.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/wunderlist/bilder-git-watcher",
+  "dependencies": {
+    "gaze": "^0.5.1"
+  }
+}
